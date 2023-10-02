@@ -11,3 +11,5 @@ const firebaseConfig = {
 }
 
 export const firebase_app = initializeApp(firebaseConfig);
+// IOS: 364033336669-mjs0c89pla0qo7g6p0ljocrhgr2abe49.apps.googleusercontent.com
+// Android: 364033336669-riefsnboi9tilbumm49775silkh3ok1o.apps.googleusercontent.com

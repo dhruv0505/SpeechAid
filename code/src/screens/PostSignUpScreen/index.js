@@ -1,0 +1,1 @@
+export {default} from './post_sign_up_screen.js'
